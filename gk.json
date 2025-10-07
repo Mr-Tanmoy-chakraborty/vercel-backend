@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+            "Charles Dickens",
+            "Leo Tolstoy",
+            "William Shakespeare",
+            "Mark Twain"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "id": 3,
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 4,
+        "question": "Which is the largest ocean in the world?",
+        "options": [
+            "Atlantic",
+            "Pacific",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Pacific"
+    },
+    {
+        "id": 5,
+        "question": "Who is known as the Father of Computers?",
+        "options": [
+            "Charles Babbage",
+            "Alan Turing",
+            "Tim Berners-Lee",
+            "Bill Gates"
+        ],
+        "answer": "Charles Babbage"
+    },
+    {
+        "id": 6,
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "O2",
+            "CO2",
+            "H2O",
+            "NaCl"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "id": 7,
+        "question": "Which country is called the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 8,
+        "question": "What is the currency of the United States?",
+        "options": [
+            "Euro",
+            "Dollar",
+            "Pound",
+            "Yen"
+        ],
+        "answer": "Dollar"
+    },
+    {
+        "id": 9,
+        "question": "Who invented the telephone?",
+        "options": [
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+        ],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "id": 10,
+        "question": "Which is the largest desert in the world?",
+        "options": [
+            "Gobi",
+            "Kalahari",
+            "Sahara",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "id": 11,
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Vincent van Gogh"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "id": 12,
+        "question": "Which is the smallest planet in our solar system?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Mercury",
+            "Pluto"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": 13,
+        "question": "Who discovered penicillin?",
+        "options": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Robert Koch"
+        ],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "id": 14,
+        "question": "Which gas is essential for breathing?",
+        "options": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "id": 15,
+        "question": "Which is the largest continent on Earth?",
+        "options": [
+            "Africa",
+            "Asia",
+            "Europe",
+            "North America"
+        ],
+        "answer": "Asia"
+    },
+    {
+        "id": 16,
+        "question": "Who wrote the book 'Harry Potter' series?",
+        "options": [
+            "Suzanne Collins",
+            "J.K. Rowling",
+            "Rick Riordan",
+            "C.S. Lewis"
+        ],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "id": 17,
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "options": [
+            "England",
+            "France",
+            "Germany",
+            "Spain"
+        ],
+        "answer": "France"
+    },
+    {
+        "id": 18,
+        "question": "What is the national animal of India?",
+        "options": [
+            "Lion",
+            "Elephant",
+            "Tiger",
+            "Peacock"
+        ],
+        "answer": "Tiger"
+    },
+    {
+        "id": 19,
+        "question": "Which is the largest mammal on Earth?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Hippopotamus",
+            "Giraffe"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "id": 20,
+        "question": "Who is known as the Father of Nation in India?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Patel",
+            "Bhagat Singh"
+        ],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "id": 21,
+        "question": "Which is the largest country by area?",
+        "options": [
+            "Canada",
+            "Russia",
+            "China",
+            "USA"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "id": 22,
+        "question": "Which element has the chemical symbol 'Au'?",
+        "options": [
+            "Silver",
+            "Gold",
+            "Aluminum",
+            "Iron"
+        ],
+        "answer": "Gold"
+    },
+    {
+        "id": 23,
+        "question": "Which is the highest mountain in the world?",
+        "options": [
+            "K2",
+            "Kangchenjunga",
+            "Mount Everest",
+            "Lhotse"
+        ],
+        "answer": "Mount Everest"
+    },
+    {
+        "id": 24,
+        "question": "Who discovered gravity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "id": 25,
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Borneo",
+            "Greenland",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "id": 26,
+        "question": "Which is the national bird of India?",
+        "options": [
+            "Sparrow",
+            "Parrot",
+            "Peacock",
+            "Eagle"
+        ],
+        "answer": "Peacock"
+    },
+    {
+        "id": 27,
+        "question": "Who is known as the Father of Modern Physics?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Niels Bohr"
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "id": 28,
+        "question": "Which river is the longest in the world?",
+        "options": [
+            "Amazon",
+            "Yangtze",
+            "Nile",
+            "Mississippi"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "id": 29,
+        "question": "Which country has the largest population in the world?",
+        "options": [
+            "India",
+            "USA",
+            "China",
+            "Indonesia"
+        ],
+        "answer": "China"
+    },
+    {
+        "id": 30,
+        "question": "Which is the fastest land animal?",
+        "options": [
+            "Lion",
+            "Cheetah",
+            "Tiger",
+            "Leopard"
+        ],
+        "answer": "Cheetah"
+    },
+    {
+        "id": 31,
+        "question": "Who is the author of 'The Theory of Relativity'?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Stephen Hawking",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "id": 32,
+        "question": "Which is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "Nauru",
+            "Vatican City",
+            "Malta"
+        ],
+        "answer": "Vatican City"
+    },
+    {
+        "id": 33,
+        "question": "Which is the largest planet in our solar system?",
+        "options": [
+            "Saturn",
+            "Earth",
+            "Jupiter",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "id": 34,
+        "question": "Who is the first woman Prime Minister of the UK?",
+        "options": [
+            "Theresa May",
+            "Indira Gandhi",
+            "Margaret Thatcher",
+            "Angela Merkel"
+        ],
+        "answer": "Margaret Thatcher"
+    },
+    {
+        "id": 35,
+        "question": "Which Indian city is known as the Pink City?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Jaipur",
+            "Kolkata"
+        ],
+        "answer": "Jaipur"
+    },
+    {
+        "id": 36,
+        "question": "Which planet is closest to the sun?",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": 37,
+        "question": "Who is the current Prime Minister of the UK?",
+        "options": [
+            "Boris Johnson",
+            "Rishi Sunak",
+            "Theresa May",
+            "David Cameron"
+        ],
+        "answer": "Rishi Sunak"
+    },
+    {
+        "id": 38,
+        "question": "Which Indian festival is known as the festival of lights?",
+        "options": [
+            "Holi",
+            "Eid",
+            "Diwali",
+            "Christmas"
+        ],
+        "answer": "Diwali"
+    },
+    {
+        "id": 39,
+        "question": "Which country is famous for the Great Wall?",
+        "options": [
+            "Japan",
+            "Korea",
+            "China",
+            "India"
+        ],
+        "answer": "China"
+    },
+    {
+        "id": 40,
+        "question": "Which is the national flower of India?",
+        "options": [
+            "Rose",
+            "Marigold",
+            "Lotus",
+            "Sunflower"
+        ],
+        "answer": "Lotus"
+    },
+    {
+        "id": 41,
+        "question": "Who invented the light bulb?",
+        "options": [
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Galileo Galilei"
+        ],
+        "answer": "Thomas Edison"
+    },
+    {
+        "id": 42,
+        "question": "Which is the largest freshwater lake in the world?",
+        "options": [
+            "Lake Victoria",
+            "Lake Baikal",
+            "Lake Superior",
+            "Lake Michigan"
+        ],
+        "answer": "Lake Superior"
+    },
+    {
+        "id": 43,
+        "question": "Which Indian state has the highest population?",
+        "options": [
+            "Maharashtra",
+            "Bihar",
+            "Uttar Pradesh",
+            "West Bengal"
+        ],
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "id": 44,
+        "question": "Which country hosted the 2020 Summer Olympics?",
+        "options": [
+            "China",
+            "UK",
+            "Japan",
+            "Brazil"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 45,
+        "question": "Who is known as the Missile Man of India?",
+        "options": [
+            "Homi Bhabha",
+            "Vikram Sarabhai",
+            "Dr. A.P.J. Abdul Kalam",
+            "C.V. Raman"
+        ],
+        "answer": "Dr. A.P.J. Abdul Kalam"
+    },
+    {
+        "id": 46,
+        "question": "Which country is called the Land of Maple Leaf?",
+        "options": [
+            "USA",
+            "Australia",
+            "Canada",
+            "Sweden"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "id": 47,
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Brahmaputra",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "id": 48,
+        "question": "Who wrote the national anthem of India?",
+        "options": [
+            "Bankim Chandra Chatterjee",
+            "Sarojini Naidu",
+            "Rabindranath Tagore",
+            "Subhas Chandra Bose"
+        ],
+        "answer": "Rabindranath Tagore"
+    },
+    {
+        "id": 49,
+        "question": "Which planet has rings around it?",
+        "options": [
+            "Jupiter",
+            "Mars",
+            "Saturn",
+            "Earth"
+        ],
+        "answer": "Saturn"
+    },
+    {
+        "id": 50,
+        "question": "Which gas do plants absorb for photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    }
+]

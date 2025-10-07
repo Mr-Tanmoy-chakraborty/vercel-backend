@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "Who is the king of the Greek gods?",
+        "options": [
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Apollo"
+        ],
+        "answer": "Zeus"
+    },
+    {
+        "id": 2,
+        "question": "In Norse mythology, who wields the hammer Mjolnir?",
+        "options": [
+            "Odin",
+            "Loki",
+            "Thor",
+            "Frey"
+        ],
+        "answer": "Thor"
+    },
+    {
+        "id": 3,
+        "question": "Who is the goddess of wisdom in Greek mythology?",
+        "options": [
+            "Hera",
+            "Athena",
+            "Aphrodite",
+            "Artemis"
+        ],
+        "answer": "Athena"
+    },
+    {
+        "id": 4,
+        "question": "Which Egyptian god is associated with the afterlife?",
+        "options": [
+            "Horus",
+            "Ra",
+            "Anubis",
+            "Osiris"
+        ],
+        "answer": "Osiris"
+    },
+    {
+        "id": 5,
+        "question": "In Greek mythology, who flew too close to the sun with wings of wax?",
+        "options": [
+            "Icarus",
+            "Daedalus",
+            "Hermes",
+            "Perseus"
+        ],
+        "answer": "Icarus"
+    },
+    {
+        "id": 6,
+        "question": "Who is the trickster god in Norse mythology?",
+        "options": [
+            "Odin",
+            "Baldur",
+            "Frey",
+            "Loki"
+        ],
+        "answer": "Loki"
+    },
+    {
+        "id": 7,
+        "question": "Who is the queen of the gods in Greek mythology?",
+        "options": [
+            "Athena",
+            "Hera",
+            "Aphrodite",
+            "Demeter"
+        ],
+        "answer": "Hera"
+    },
+    {
+        "id": 8,
+        "question": "Which hero completed 12 labors in Greek mythology?",
+        "options": [
+            "Achilles",
+            "Perseus",
+            "Theseus",
+            "Hercules"
+        ],
+        "answer": "Hercules"
+    },
+    {
+        "id": 9,
+        "question": "Who is the sun god in Egyptian mythology?",
+        "options": [
+            "Ra",
+            "Osiris",
+            "Horus",
+            "Set"
+        ],
+        "answer": "Ra"
+    },
+    {
+        "id": 10,
+        "question": "In Hindu mythology, who is the god of destruction?",
+        "options": [
+            "Vishnu",
+            "Shiva",
+            "Brahma",
+            "Indra"
+        ],
+        "answer": "Shiva"
+    },
+    {
+        "id": 11,
+        "question": "Which Greek hero killed the Medusa?",
+        "options": [
+            "Perseus",
+            "Hercules",
+            "Theseus",
+            "Odysseus"
+        ],
+        "answer": "Perseus"
+    },
+    {
+        "id": 12,
+        "question": "Who is the god of the sea in Greek mythology?",
+        "options": [
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Ares"
+        ],
+        "answer": "Poseidon"
+    },
+    {
+        "id": 13,
+        "question": "In Norse mythology, which tree connects the nine worlds?",
+        "options": [
+            "Ashvattha",
+            "Bodhi Tree",
+            "Yggdrasil",
+            "Tree of Life"
+        ],
+        "answer": "Yggdrasil"
+    },
+    {
+        "id": 14,
+        "question": "Who is the goddess of love and beauty in Greek mythology?",
+        "options": [
+            "Athena",
+            "Hera",
+            "Aphrodite",
+            "Artemis"
+        ],
+        "answer": "Aphrodite"
+    },
+    {
+        "id": 15,
+        "question": "Which creature is half-man and half-bull in Greek mythology?",
+        "options": [
+            "Centaur",
+            "Satyr",
+            "Minotaur",
+            "Cyclops"
+        ],
+        "answer": "Minotaur"
+    },
+    {
+        "id": 16,
+        "question": "Who is the king of the Norse gods?",
+        "options": [
+            "Thor",
+            "Odin",
+            "Loki",
+            "Frey"
+        ],
+        "answer": "Odin"
+    },
+    {
+        "id": 17,
+        "question": "In Hindu mythology, who is the god of wisdom and remover of obstacles?",
+        "options": [
+            "Shiva",
+            "Ganesha",
+            "Vishnu",
+            "Brahma"
+        ],
+        "answer": "Ganesha"
+    },
+    {
+        "id": 18,
+        "question": "Which Greek goddess is associated with the harvest?",
+        "options": [
+            "Demeter",
+            "Hera",
+            "Athena",
+            "Aphrodite"
+        ],
+        "answer": "Demeter"
+    },
+    {
+        "id": 19,
+        "question": "Who is the Egyptian god of the sky?",
+        "options": [
+            "Horus",
+            "Ra",
+            "Anubis",
+            "Osiris"
+        ],
+        "answer": "Horus"
+    },
+    {
+        "id": 20,
+        "question": "Which Greek hero fought in the Trojan War?",
+        "options": [
+            "Hercules",
+            "Theseus",
+            "Achilles",
+            "Odysseus"
+        ],
+        "answer": "Achilles"
+    },
+    {
+        "id": 21,
+        "question": "In Norse mythology, who is the god of mischief?",
+        "options": [
+            "Loki",
+            "Thor",
+            "Odin",
+            "Frey"
+        ],
+        "answer": "Loki"
+    },
+    {
+        "id": 22,
+        "question": "Which Hindu goddess is known as the goddess of wealth?",
+        "options": [
+            "Lakshmi",
+            "Saraswati",
+            "Parvati",
+            "Durga"
+        ],
+        "answer": "Lakshmi"
+    },
+    {
+        "id": 23,
+        "question": "Which Greek hero wore the Helm of Darkness?",
+        "options": [
+            "Perseus",
+            "Hercules",
+            "Hades",
+            "Theseus"
+        ],
+        "answer": "Perseus"
+    },
+    {
+        "id": 24,
+        "question": "Who is the god of war in Roman mythology?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Neptune",
+            "Apollo"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 25,
+        "question": "Which creature has snakes for hair in Greek mythology?",
+        "options": [
+            "Medusa",
+            "Hydra",
+            "Cerberus",
+            "Minotaur"
+        ],
+        "answer": "Medusa"
+    },
+    {
+        "id": 26,
+        "question": "Who is the goddess of the moon in Greek mythology?",
+        "options": [
+            "Artemis",
+            "Athena",
+            "Hera",
+            "Aphrodite"
+        ],
+        "answer": "Artemis"
+    },
+    {
+        "id": 27,
+        "question": "In Hindu mythology, who is the preserver god?",
+        "options": [
+            "Shiva",
+            "Brahma",
+            "Vishnu",
+            "Indra"
+        ],
+        "answer": "Vishnu"
+    },
+    {
+        "id": 28,
+        "question": "Which Norse goddess is associated with love and fertility?",
+        "options": [
+            "Freyja",
+            "Frigg",
+            "Hel",
+            "Sif"
+        ],
+        "answer": "Freyja"
+    },
+    {
+        "id": 29,
+        "question": "Who is the Roman god of the sea?",
+        "options": [
+            "Jupiter",
+            "Neptune",
+            "Mars",
+            "Saturn"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "id": 30,
+        "question": "Which Greek hero slayed the Hydra?",
+        "options": [
+            "Perseus",
+            "Hercules",
+            "Theseus",
+            "Odysseus"
+        ],
+        "answer": "Hercules"
+    },
+    {
+        "id": 31,
+        "question": "Which Egyptian goddess is known as the mother goddess?",
+        "options": [
+            "Isis",
+            "Hathor",
+            "Nephthys",
+            "Sekhmet"
+        ],
+        "answer": "Isis"
+    },
+    {
+        "id": 32,
+        "question": "Who is the god of the underworld in Greek mythology?",
+        "options": [
+            "Hades",
+            "Poseidon",
+            "Zeus",
+            "Ares"
+        ],
+        "answer": "Hades"
+    },
+    {
+        "id": 33,
+        "question": "In Norse mythology, who guards the Bifrost bridge?",
+        "options": [
+            "Heimdall",
+            "Odin",
+            "Thor",
+            "Loki"
+        ],
+        "answer": "Heimdall"
+    },
+    {
+        "id": 34,
+        "question": "Who is the god of fire in Greek mythology?",
+        "options": [
+            "Hephaestus",
+            "Ares",
+            "Apollo",
+            "Hermes"
+        ],
+        "answer": "Hephaestus"
+    },
+    {
+        "id": 35,
+        "question": "Which Hindu goddess represents knowledge and learning?",
+        "options": [
+            "Parvati",
+            "Lakshmi",
+            "Saraswati",
+            "Durga"
+        ],
+        "answer": "Saraswati"
+    },
+    {
+        "id": 36,
+        "question": "Which Greek god is known as the messenger of the gods?",
+        "options": [
+            "Hermes",
+            "Apollo",
+            "Zeus",
+            "Ares"
+        ],
+        "answer": "Hermes"
+    },
+    {
+        "id": 37,
+        "question": "Which Norse god is associated with poetry and music?",
+        "options": [
+            "Odin",
+            "Baldur",
+            "Bragi",
+            "Frey"
+        ],
+        "answer": "Bragi"
+    },
+    {
+        "id": 38,
+        "question": "Who is the goddess of the hunt in Greek mythology?",
+        "options": [
+            "Athena",
+            "Artemis",
+            "Hera",
+            "Demeter"
+        ],
+        "answer": "Artemis"
+    },
+    {
+        "id": 39,
+        "question": "Which Egyptian god is depicted with a jackal head?",
+        "options": [
+            "Anubis",
+            "Horus",
+            "Ra",
+            "Osiris"
+        ],
+        "answer": "Anubis"
+    },
+    {
+        "id": 40,
+        "question": "Who is the god of beginnings in Hindu mythology?",
+        "options": [
+            "Shiva",
+            "Brahma",
+            "Ganesha",
+            "Vishnu"
+        ],
+        "answer": "Ganesha"
+    },
+    {
+        "id": 41,
+        "question": "Which Greek goddess sprang fully grown from Zeus’s head?",
+        "options": [
+            "Athena",
+            "Hera",
+            "Aphrodite",
+            "Demeter"
+        ],
+        "answer": "Athena"
+    },
+    {
+        "id": 42,
+        "question": "In Norse mythology, who is the god of thunder?",
+        "options": [
+            "Odin",
+            "Loki",
+            "Thor",
+            "Frey"
+        ],
+        "answer": "Thor"
+    },
+    {
+        "id": 43,
+        "question": "Which Roman goddess is equivalent to the Greek goddess Aphrodite?",
+        "options": [
+            "Venus",
+            "Juno",
+            "Minerva",
+            "Diana"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "id": 44,
+        "question": "Who is the god of war in Greek mythology?",
+        "options": [
+            "Ares",
+            "Apollo",
+            "Hephaestus",
+            "Zeus"
+        ],
+        "answer": "Ares"
+    },
+    {
+        "id": 45,
+        "question": "Which Hindu god wields the Sudarshana Chakra?",
+        "options": [
+            "Shiva",
+            "Vishnu",
+            "Indra",
+            "Brahma"
+        ],
+        "answer": "Vishnu"
+    },
+    {
+        "id": 46,
+        "question": "Which mythical creature is half-lion, half-eagle?",
+        "options": [
+            "Griffin",
+            "Minotaur",
+            "Sphinx",
+            "Chimera"
+        ],
+        "answer": "Griffin"
+    },
+    {
+        "id": 47,
+        "question": "Who is the god of the winds in Greek mythology?",
+        "options": [
+            "Aeolus",
+            "Zephyrus",
+            "Boreas",
+            "Notus"
+        ],
+        "answer": "Aeolus"
+    },
+    {
+        "id": 48,
+        "question": "Which goddess in Hindu mythology is known for slaying demons?",
+        "options": [
+            "Durga",
+            "Parvati",
+            "Saraswati",
+            "Lakshmi"
+        ],
+        "answer": "Durga"
+    },
+    {
+        "id": 49,
+        "question": "Who is the goddess of dawn in Greek mythology?",
+        "options": [
+            "Eos",
+            "Hera",
+            "Aphrodite",
+            "Artemis"
+        ],
+        "answer": "Eos"
+    },
+    {
+        "id": 50,
+        "question": "Which creature had nine heads in Greek mythology?",
+        "options": [
+            "Hydra",
+            "Cerberus",
+            "Chimera",
+            "Cyclops"
+        ],
+        "answer": "Hydra"
+    }
+]

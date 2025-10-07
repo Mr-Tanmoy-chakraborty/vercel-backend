@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "Who won the ICC Cricket World Cup 2019?",
+        "options": [
+            "India",
+            "England",
+            "New Zealand",
+            "Australia"
+        ],
+        "answer": "England"
+    },
+    {
+        "id": 2,
+        "question": "Who is known as Captain Cool?",
+        "options": [
+            "Kohli",
+            "Root",
+            "Dhoni",
+            "Smith"
+        ],
+        "answer": "Dhoni"
+    },
+    {
+        "id": 3,
+        "question": "Which country won the first Cricket World Cup in 1975?",
+        "options": [
+            "India",
+            "Australia",
+            "West Indies",
+            "England"
+        ],
+        "answer": "West Indies"
+    },
+    {
+        "id": 4,
+        "question": "Who holds the record for most runs in ODI cricket?",
+        "options": [
+            "Brian Lara",
+            "Sachin Tendulkar",
+            "Kohli",
+            "Ricky Ponting"
+        ],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "id": 5,
+        "question": "Which bowler has the most wickets in Test cricket?",
+        "options": [
+            "James Anderson",
+            "Muttiah Muralitharan",
+            "Shane Warne",
+            "Anil Kumble"
+        ],
+        "answer": "Muttiah Muralitharan"
+    },
+    {
+        "id": 6,
+        "question": "Who scored the fastest century in ODI cricket?",
+        "options": [
+            "Corey Anderson",
+            "Shahid Afridi",
+            "AB de Villiers",
+            "Viv Richards"
+        ],
+        "answer": "AB de Villiers"
+    },
+    {
+        "id": 7,
+        "question": "Which country won the ICC T20 World Cup 2022?",
+        "options": [
+            "Pakistan",
+            "India",
+            "Australia",
+            "England"
+        ],
+        "answer": "England"
+    },
+    {
+        "id": 8,
+        "question": "Who is the leading run-scorer in T20 international cricket?",
+        "options": [
+            "Rashid Khan",
+            "Virat Kohli",
+            "David Warner",
+            "Babar Azam"
+        ],
+        "answer": "Virat Kohli"
+    },
+    {
+        "id": 9,
+        "question": "Who has taken the best bowling figures in a single ODI match?",
+        "options": [
+            "Joel Garner",
+            "Glenn McGrath",
+            "Chaminda Vaas",
+            "Malinga"
+        ],
+        "answer": "Chaminda Vaas"
+    },
+    {
+        "id": 10,
+        "question": "Which team is called 'The Baggy Greens'?",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "England",
+            "South Africa"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "id": 11,
+        "question": "Who is known as the 'Universe Boss' in cricket?",
+        "options": [
+            "Chris Gayle",
+            "MS Dhoni",
+            "Ricky Ponting",
+            "AB de Villiers"
+        ],
+        "answer": "Chris Gayle"
+    },
+    {
+        "id": 12,
+        "question": "Which bowler bowled the 'Ball of the Century'?",
+        "options": [
+            "James Anderson",
+            "Muralitharan",
+            "Brett Lee",
+            "Shane Warne"
+        ],
+        "answer": "Shane Warne"
+    },
+    {
+        "id": 13,
+        "question": "Who has the most centuries in Test cricket?",
+        "options": [
+            "Ricky Ponting",
+            "Virat Kohli",
+            "Kumar Sangakkara",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "id": 14,
+        "question": "Which country hosted the 2007 ICC Cricket World Cup?",
+        "options": [
+            "West Indies",
+            "South Africa",
+            "England",
+            "India"
+        ],
+        "answer": "West Indies"
+    },
+    {
+        "id": 15,
+        "question": "Who is the first player to score 10,000 runs in ODI cricket?",
+        "options": [
+            "Ricky Ponting",
+            "Sachin Tendulkar",
+            "Brian Lara",
+            "Jacques Kallis"
+        ],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "id": 16,
+        "question": "Which team won the inaugural ICC T20 World Cup in 2007?",
+        "options": [
+            "England",
+            "India",
+            "Pakistan",
+            "Australia"
+        ],
+        "answer": "India"
+    },
+    {
+        "id": 17,
+        "question": "Who is the fastest bowler in cricket history?",
+        "options": [
+            "Brett Lee",
+            "Shoaib Akhtar",
+            "Mitchell Starc",
+            "Shaun Tait"
+        ],
+        "answer": "Shoaib Akhtar"
+    },
+    {
+        "id": 18,
+        "question": "Who captained India to the 1983 World Cup victory?",
+        "options": [
+            "Kapil Dev",
+            "Sunil Gavaskar",
+            "Sachin Tendulkar",
+            "Mohinder Amarnath"
+        ],
+        "answer": "Kapil Dev"
+    },
+    {
+        "id": 19,
+        "question": "Which bowler has the most wickets in ODI cricket?",
+        "options": [
+            "Muttiah Muralitharan",
+            "Wasim Akram",
+            "Anil Kumble",
+            "Glenn McGrath"
+        ],
+        "answer": "Muttiah Muralitharan"
+    },
+    {
+        "id": 20,
+        "question": "Who is the leading wicket-taker in T20 internationals?",
+        "options": [
+            "Rashid Khan",
+            "Lasith Malinga",
+            "Dale Steyn",
+            "Shakib Al Hasan"
+        ],
+        "answer": "Rashid Khan"
+    },
+    {
+        "id": 21,
+        "question": "Which Indian cricketer scored 264 runs in a single Test innings?",
+        "options": [
+            "VVS Laxman",
+            "Rahul Dravid",
+            "Virender Sehwag",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Rahul Dravid"
+    },
+    {
+        "id": 22,
+        "question": "Who hit the winning six in the 2011 World Cup final?",
+        "options": [
+            "Yuvraj Singh",
+            "Gautam Gambhir",
+            "Suresh Raina",
+            "MS Dhoni"
+        ],
+        "answer": "MS Dhoni"
+    },
+    {
+        "id": 23,
+        "question": "Which team is nicknamed 'Proteas'?",
+        "options": [
+            "South Africa",
+            "Australia",
+            "New Zealand",
+            "England"
+        ],
+        "answer": "South Africa"
+    },
+    {
+        "id": 24,
+        "question": "Who has the highest individual score in ODI cricket?",
+        "options": [
+            "Martin Guptill",
+            "Rohit Sharma",
+            "Sachin Tendulkar",
+            "Viv Richards"
+        ],
+        "answer": "Rohit Sharma"
+    },
+    {
+        "id": 25,
+        "question": "Who holds the record for most wickets in World Cup history?",
+        "options": [
+            "Glenn McGrath",
+            "Wasim Akram",
+            "Curtly Ambrose",
+            "Muttiah Muralitharan"
+        ],
+        "answer": "Glenn McGrath"
+    },
+    {
+        "id": 26,
+        "question": "Which country won the ICC Champions Trophy 2017?",
+        "options": [
+            "Pakistan",
+            "India",
+            "Australia",
+            "Sri Lanka"
+        ],
+        "answer": "Pakistan"
+    },
+    {
+        "id": 27,
+        "question": "Who is known as 'The Wall' in cricket?",
+        "options": [
+            "Rahul Dravid",
+            "Jacques Kallis",
+            "Kumar Sangakkara",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Rahul Dravid"
+    },
+    {
+        "id": 28,
+        "question": "Who scored a triple century in Test cricket for India?",
+        "options": [
+            "VVS Laxman",
+            "Virender Sehwag",
+            "Rahul Dravid",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Virender Sehwag"
+    },
+    {
+        "id": 29,
+        "question": "Who captained Australia to 3 consecutive World Cup victories?",
+        "options": [
+            "Steve Waugh",
+            "Ricky Ponting",
+            "Allan Border",
+            "Adam Gilchrist"
+        ],
+        "answer": "Ricky Ponting"
+    },
+    {
+        "id": 30,
+        "question": "Which bowler took 10 wickets in a Test innings for India?",
+        "options": [
+            "Zaheer Khan",
+            "Anil Kumble",
+            "Kapil Dev",
+            "Harbhajan Singh"
+        ],
+        "answer": "Anil Kumble"
+    },
+    {
+        "id": 31,
+        "question": "Which player is known as 'Mr. 360'?",
+        "options": [
+            "MS Dhoni",
+            "AB de Villiers",
+            "Chris Gayle",
+            "Virat Kohli"
+        ],
+        "answer": "AB de Villiers"
+    },
+    {
+        "id": 32,
+        "question": "Which country won the ICC Cricket World Cup 1987?",
+        "options": [
+            "India",
+            "Australia",
+            "England",
+            "Pakistan"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "id": 33,
+        "question": "Who is the highest run-scorer in IPL history?",
+        "options": [
+            "Virat Kohli",
+            "Suresh Raina",
+            "Rohit Sharma",
+            "David Warner"
+        ],
+        "answer": "Virat Kohli"
+    },
+    {
+        "id": 34,
+        "question": "Which bowler has the best bowling figures in an ODI match?",
+        "options": [
+            "Chaminda Vaas",
+            "Glenn McGrath",
+            "Malinga",
+            "Joel Garner"
+        ],
+        "answer": "Chaminda Vaas"
+    },
+    {
+        "id": 35,
+        "question": "Which team won the IPL 2023?",
+        "options": [
+            "Mumbai Indians",
+            "Gujarat Titans",
+            "Rajasthan Royals",
+            "Chennai Super Kings"
+        ],
+        "answer": "Chennai Super Kings"
+    },
+    {
+        "id": 36,
+        "question": "Who is known as 'The Universe Boss'?",
+        "options": [
+            "MS Dhoni",
+            "Ricky Ponting",
+            "Chris Gayle",
+            "AB de Villiers"
+        ],
+        "answer": "Chris Gayle"
+    },
+    {
+        "id": 37,
+        "question": "Which country won the ICC Under-19 World Cup 2020?",
+        "options": [
+            "India",
+            "Bangladesh",
+            "Australia",
+            "Pakistan"
+        ],
+        "answer": "Bangladesh"
+    },
+    {
+        "id": 38,
+        "question": "Who has the fastest fifty in ODI cricket?",
+        "options": [
+            "Brian Lara",
+            "AB de Villiers",
+            "Corey Anderson",
+            "Viv Richards"
+        ],
+        "answer": "AB de Villiers"
+    },
+    {
+        "id": 39,
+        "question": "Which Indian bowler has the most wickets in ODI cricket?",
+        "options": [
+            "Anil Kumble",
+            "Harbhajan Singh",
+            "Zaheer Khan",
+            "Javagal Srinath"
+        ],
+        "answer": "Anil Kumble"
+    },
+    {
+        "id": 40,
+        "question": "Who is the first bowler to take 600 wickets in Test cricket?",
+        "options": [
+            "Shane Warne",
+            "Anil Kumble",
+            "James Anderson",
+            "Muttiah Muralitharan"
+        ],
+        "answer": "Muttiah Muralitharan"
+    },
+    {
+        "id": 41,
+        "question": "Which team won the ICC World T20 2016?",
+        "options": [
+            "Sri Lanka",
+            "West Indies",
+            "India",
+            "England"
+        ],
+        "answer": "West Indies"
+    },
+    {
+        "id": 42,
+        "question": "Who scored 248 in an ODI for India?",
+        "options": [
+            "Virat Kohli",
+            "Rohit Sharma",
+            "MS Dhoni",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Rohit Sharma"
+    },
+    {
+        "id": 43,
+        "question": "Who is the captain of Pakistan cricket team in 2023?",
+        "options": [
+            "Sarfraz Ahmed",
+            "Shadab Khan",
+            "Babar Azam",
+            "Fakhar Zaman"
+        ],
+        "answer": "Babar Azam"
+    },
+    {
+        "id": 44,
+        "question": "Which cricketer is called 'Boom Boom'?",
+        "options": [
+            "Andre Russell",
+            "Chris Gayle",
+            "MS Dhoni",
+            "AB de Villiers"
+        ],
+        "answer": "Chris Gayle"
+    },
+    {
+        "id": 45,
+        "question": "Which bowler took the first hat-trick in World Cup history?",
+        "options": [
+            "Shane Warne",
+            "Lasith Malinga",
+            "Chetan Sharma",
+            "Wasim Akram"
+        ],
+        "answer": "Chetan Sharma"
+    },
+    {
+        "id": 46,
+        "question": "Which country won the ICC Cricket World Cup 1992?",
+        "options": [
+            "Australia",
+            "Pakistan",
+            "India",
+            "England"
+        ],
+        "answer": "Pakistan"
+    },
+    {
+        "id": 47,
+        "question": "Who scored the first double century in ODI cricket?",
+        "options": [
+            "Virender Sehwag",
+            "Martin Guptill",
+            "Chris Gayle",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "id": 48,
+        "question": "Which bowler has taken 5 wickets in a World Cup final?",
+        "options": [
+            "Anil Kumble",
+            "Chaminda Vaas",
+            "Joel Garner",
+            "Glenn McGrath"
+        ],
+        "answer": "Glenn McGrath"
+    },
+    {
+        "id": 49,
+        "question": "Which country won the ICC Champions Trophy 2013?",
+        "options": [
+            "India",
+            "Sri Lanka",
+            "England",
+            "South Africa"
+        ],
+        "answer": "India"
+    },
+    {
+        "id": 50,
+        "question": "Who is the highest wicket-taker for India in T20 internationals?",
+        "options": [
+            "Harbhajan Singh",
+            "Bhuvneshwar Kumar",
+            "Yuzvendra Chahal",
+            "Jasprit Bumrah"
+        ],
+        "answer": "Yuzvendra Chahal"
+    }
+]

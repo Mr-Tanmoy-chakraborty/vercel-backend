@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "In which city were the first modern Olympics held?",
+        "options": [
+            "Paris",
+            "Athens",
+            "London",
+            "Rome"
+        ],
+        "answer": "Athens"
+    },
+    {
+        "id": 2,
+        "question": "Which country has won the most Olympic gold medals?",
+        "options": [
+            "Russia",
+            "China",
+            "USA",
+            "Germany"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 3,
+        "question": "Who is the most decorated Olympian of all time?",
+        "options": [
+            "Michael Phelps",
+            "Carl Lewis",
+            "Usain Bolt",
+            "Larisa Latynina"
+        ],
+        "answer": "Michael Phelps"
+    },
+    {
+        "id": 4,
+        "question": "Which city hosted the 2016 Summer Olympics?",
+        "options": [
+            "Tokyo",
+            "Rio de Janeiro",
+            "London",
+            "Beijing"
+        ],
+        "answer": "Rio de Janeiro"
+    },
+    {
+        "id": 5,
+        "question": "Which country hosted the 2020 Summer Olympics?",
+        "options": [
+            "South Korea",
+            "Japan",
+            "USA",
+            "China"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 6,
+        "question": "Which sport is known as the 'queen of the Olympics'?",
+        "options": [
+            "Gymnastics",
+            "Cycling",
+            "Athletics",
+            "Swimming"
+        ],
+        "answer": "Athletics"
+    },
+    {
+        "id": 7,
+        "question": "Who won 3 gold medals at the 2012 Olympics in swimming?",
+        "options": [
+            "Michael Phelps",
+            "Nadja Comaneci",
+            "Ryan Lochte",
+            "Ian Thorpe"
+        ],
+        "answer": "Michael Phelps"
+    },
+    {
+        "id": 8,
+        "question": "Which country topped the medal table at the 2012 Olympics?",
+        "options": [
+            "USA",
+            "China",
+            "Great Britain",
+            "Russia"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 9,
+        "question": "Which city hosted the 2008 Summer Olympics?",
+        "options": [
+            "Athens",
+            "Beijing",
+            "Sydney",
+            "London"
+        ],
+        "answer": "Beijing"
+    },
+    {
+        "id": 10,
+        "question": "Who is known as the fastest man in the world?",
+        "options": [
+            "Carl Lewis",
+            "Usain Bolt",
+            "Justin Gatlin",
+            "Yohan Blake"
+        ],
+        "answer": "Usain Bolt"
+    },
+    {
+        "id": 11,
+        "question": "Which country hosted the 1992 Summer Olympics?",
+        "options": [
+            "Italy",
+            "Spain",
+            "USA",
+            "France"
+        ],
+        "answer": "Spain"
+    },
+    {
+        "id": 12,
+        "question": "Which sport has the highest number of Olympic events?",
+        "options": [
+            "Cycling",
+            "Swimming",
+            "Athletics",
+            "Gymnastics"
+        ],
+        "answer": "Athletics"
+    },
+    {
+        "id": 13,
+        "question": "Which country hosted the 2014 Winter Olympics?",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Russia",
+            "Canada"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "id": 14,
+        "question": "Who is the youngest Olympic gold medalist in history?",
+        "options": [
+            "Michael Phelps",
+            "Kim Yun-Mi",
+            "Marjorie Gestring",
+            "Nadia Comaneci"
+        ],
+        "answer": "Marjorie Gestring"
+    },
+    {
+        "id": 15,
+        "question": "Which Olympics were cancelled due to World War II?",
+        "options": [
+            "1944 and 1948",
+            "1936 and 1940",
+            "1940 and 1944",
+            "1948 and 1952"
+        ],
+        "answer": "1940 and 1944"
+    },
+    {
+        "id": 16,
+        "question": "Which country won the most medals in the 2018 Winter Olympics?",
+        "options": [
+            "Germany",
+            "USA",
+            "Norway",
+            "Canada"
+        ],
+        "answer": "Norway"
+    },
+    {
+        "id": 17,
+        "question": "Who is the first woman to win 5 gold medals in a single Olympics?",
+        "options": [
+            "Larisa Latynina",
+            "Simone Biles",
+            "Nadia Comaneci",
+            "Fanny Blankers-Koen"
+        ],
+        "answer": "Larisa Latynina"
+    },
+    {
+        "id": 18,
+        "question": "Which city hosted the first Winter Olympics?",
+        "options": [
+            "St. Moritz",
+            "Oslo",
+            "Chamonix",
+            "Lake Placid"
+        ],
+        "answer": "Chamonix"
+    },
+    {
+        "id": 19,
+        "question": "Which country won the first Olympic gold medal in hockey?",
+        "options": [
+            "India",
+            "Pakistan",
+            "Great Britain",
+            "Australia"
+        ],
+        "answer": "India"
+    },
+    {
+        "id": 20,
+        "question": "Who won the men’s 100m sprint at the 2016 Olympics?",
+        "options": [
+            "Justin Gatlin",
+            "Usain Bolt",
+            "Andre De Grasse",
+            "Yohan Blake"
+        ],
+        "answer": "Usain Bolt"
+    },
+    {
+        "id": 21,
+        "question": "Which country has hosted the most Olympic Games?",
+        "options": [
+            "UK",
+            "USA",
+            "France",
+            "Germany"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 22,
+        "question": "Which city hosted the 1984 Summer Olympics?",
+        "options": [
+            "Los Angeles",
+            "Seoul",
+            "Moscow",
+            "Montreal"
+        ],
+        "answer": "Los Angeles"
+    },
+    {
+        "id": 23,
+        "question": "Which sport made its Olympic debut in 2020?",
+        "options": [
+            "Skateboarding",
+            "All of these",
+            "Surfing",
+            "Karate"
+        ],
+        "answer": "All of these"
+    },
+    {
+        "id": 24,
+        "question": "Which country won the most gold medals in 2016 Summer Olympics?",
+        "options": [
+            "USA",
+            "China",
+            "Russia",
+            "Great Britain"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 25,
+        "question": "Which country is known for dominating gymnastics?",
+        "options": [
+            "Russia",
+            "USA",
+            "China",
+            "Romania"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 26,
+        "question": "Who is the most decorated Winter Olympian?",
+        "options": [
+            "Michael Phelps",
+            "Marit Bjørgen",
+            "Bjorn Daehlie",
+            "Ole Einar Bjørndalen"
+        ],
+        "answer": "Marit Bjørgen"
+    },
+    {
+        "id": 27,
+        "question": "Which city hosted the 2000 Summer Olympics?",
+        "options": [
+            "Athens",
+            "Sydney",
+            "Barcelona",
+            "Atlanta"
+        ],
+        "answer": "Sydney"
+    },
+    {
+        "id": 28,
+        "question": "Which country won the first Olympic gold medal in basketball?",
+        "options": [
+            "France",
+            "USA",
+            "Spain",
+            "Canada"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 29,
+        "question": "Who won the women’s 100m sprint at the 2016 Olympics?",
+        "options": [
+            "Elaine Thompson",
+            "Florence Griffith Joyner",
+            "Shelly-Ann Fraser-Pryce",
+            "Marie-José Pérec"
+        ],
+        "answer": "Elaine Thompson"
+    },
+    {
+        "id": 30,
+        "question": "Which country won the most medals at the 2012 Summer Olympics?",
+        "options": [
+            "USA",
+            "Great Britain",
+            "China",
+            "Russia"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 31,
+        "question": "Which country has hosted the Winter Olympics the most times?",
+        "options": [
+            "Canada",
+            "USA",
+            "France",
+            "Norway"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 32,
+        "question": "Who won the men’s 200m at the 2016 Olympics?",
+        "options": [
+            "Andre De Grasse",
+            "Wayde van Niekerk",
+            "Christophe Lemaitre",
+            "Usain Bolt"
+        ],
+        "answer": "Usain Bolt"
+    },
+    {
+        "id": 33,
+        "question": "Which country won the first Olympic gold in table tennis?",
+        "options": [
+            "Sweden",
+            "China",
+            "Japan",
+            "South Korea"
+        ],
+        "answer": "China"
+    },
+    {
+        "id": 34,
+        "question": "Who won 4 gold medals in swimming at the 2020 Olympics?",
+        "options": [
+            "Michael Phelps",
+            "Caeleb Dressel",
+            "Ryan Lochte",
+            "Adam Peaty"
+        ],
+        "answer": "Caeleb Dressel"
+    },
+    {
+        "id": 35,
+        "question": "Which Olympics were the first to be broadcast on television?",
+        "options": [
+            "1936 Berlin",
+            "1948 London",
+            "1928 Amsterdam",
+            "1908 London"
+        ],
+        "answer": "1936 Berlin"
+    },
+    {
+        "id": 36,
+        "question": "Which country won the first Olympic gold medal in judo?",
+        "options": [
+            "France",
+            "Japan",
+            "Russia",
+            "USA"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 37,
+        "question": "Who lit the Olympic flame in 2012 London Olympics?",
+        "options": [
+            "Sebastian Coe",
+            "Steve Redgrave",
+            "Mo Farah",
+            "Usain Bolt"
+        ],
+        "answer": "Steve Redgrave"
+    },
+    {
+        "id": 38,
+        "question": "Which country won the first Olympic gold in soccer?",
+        "options": [
+            "Hungary",
+            "Uruguay",
+            "Sweden",
+            "Great Britain"
+        ],
+        "answer": "Uruguay"
+    },
+    {
+        "id": 39,
+        "question": "Which Olympics were postponed due to COVID-19?",
+        "options": [
+            "2012 London",
+            "2020 Tokyo",
+            "2016 Rio",
+            "2008 Beijing"
+        ],
+        "answer": "2020 Tokyo"
+    },
+    {
+        "id": 40,
+        "question": "Who is the first gymnast to score a perfect 10 in Olympics?",
+        "options": [
+            "Olga Korbut",
+            "Nadia Comaneci",
+            "Larisa Latynina",
+            "Simone Biles"
+        ],
+        "answer": "Nadia Comaneci"
+    },
+    {
+        "id": 41,
+        "question": "Which country won the most medals in 2008 Beijing Olympics?",
+        "options": [
+            "USA",
+            "China",
+            "Germany",
+            "Russia"
+        ],
+        "answer": "China"
+    },
+    {
+        "id": 42,
+        "question": "Which country has never hosted the Olympics?",
+        "options": [
+            "Japan",
+            "India",
+            "USA",
+            "France"
+        ],
+        "answer": "India"
+    },
+    {
+        "id": 43,
+        "question": "Who won the first Olympic gold medal in swimming?",
+        "options": [
+            "Michael Phelps",
+            "Alfréd Hajós",
+            "Mark Spitz",
+            "Johnny Weissmuller"
+        ],
+        "answer": "Alfréd Hajós"
+    },
+    {
+        "id": 44,
+        "question": "Which country hosted the 1988 Summer Olympics?",
+        "options": [
+            "South Korea",
+            "Spain",
+            "USA",
+            "Canada"
+        ],
+        "answer": "South Korea"
+    },
+    {
+        "id": 45,
+        "question": "Who won the women’s 400m at the 2016 Olympics?",
+        "options": [
+            "Sanya Richards-Ross",
+            "Shaunae Miller-Uibo",
+            "Allyson Felix",
+            "Christine Ohuruogu"
+        ],
+        "answer": "Shaunae Miller-Uibo"
+    },
+    {
+        "id": 46,
+        "question": "Who won the men’s marathon at the 2016 Olympics?",
+        "options": [
+            "Galen Rupp",
+            "Meb Keflezighi",
+            "Eliud Kipchoge",
+            "Feyisa Lilesa"
+        ],
+        "answer": "Eliud Kipchoge"
+    },
+    {
+        "id": 47,
+        "question": "Which country won the first Olympic gold medal in basketball for women?",
+        "options": [
+            "USA",
+            "China",
+            "Soviet Union",
+            "Australia"
+        ],
+        "answer": "USA"
+    },
+    {
+        "id": 48,
+        "question": "Which country hosted the 1998 Winter Olympics?",
+        "options": [
+            "France",
+            "Norway",
+            "Japan",
+            "Canada"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 49,
+        "question": "Who won 3 gold medals in gymnastics at the 2016 Olympics?",
+        "options": [
+            "Aly Raisman",
+            "Simone Biles",
+            "Gabby Douglas",
+            "Larisa Latynina"
+        ],
+        "answer": "Simone Biles"
+    },
+    {
+        "id": 50,
+        "question": "Which country won the most medals at the 2000 Sydney Olympics?",
+        "options": [
+            "Australia",
+            "USA",
+            "Russia",
+            "China"
+        ],
+        "answer": "USA"
+    }
+]

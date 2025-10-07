@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            "Rome",
+            "Berlin",
+            "Paris",
+            "London"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "Which is the largest continent by area?",
+        "options": [
+            "Asia",
+            "Antarctica",
+            "Europe",
+            "Africa"
+        ],
+        "answer": "Asia"
+    },
+    {
+        "id": 3,
+        "question": "The Nile river flows into which sea?",
+        "options": [
+            "Red Sea",
+            "Black Sea",
+            "Mediterranean Sea",
+            "Arabian Sea"
+        ],
+        "answer": "Mediterranean Sea"
+    },
+    {
+        "id": 4,
+        "question": "Which country has the largest population?",
+        "options": [
+            "India",
+            "USA",
+            "Indonesia",
+            "China"
+        ],
+        "answer": "China"
+    },
+    {
+        "id": 5,
+        "question": "Mount Everest is located in which mountain range?",
+        "options": [
+            "Alps",
+            "Rockies",
+            "Himalayas",
+            "Andes"
+        ],
+        "answer": "Himalayas"
+    },
+    {
+        "id": 6,
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Gobi",
+            "Arabian",
+            "Kalahari",
+            "Sahara"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "id": 7,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "Thailand",
+            "Japan",
+            "South Korea",
+            "China"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "id": 8,
+        "question": "Which is the longest river in the world?",
+        "options": [
+            "Yangtze",
+            "Amazon",
+            "Mississippi",
+            "Nile"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "id": 9,
+        "question": "Which country has the most time zones?",
+        "options": [
+            "France",
+            "USA",
+            "Australia",
+            "Russia"
+        ],
+        "answer": "France"
+    },
+    {
+        "id": 10,
+        "question": "Which ocean is the largest by area?",
+        "options": [
+            "Indian",
+            "Arctic",
+            "Pacific",
+            "Atlantic"
+        ],
+        "answer": "Pacific"
+    },
+    {
+        "id": 11,
+        "question": "Which city is known as the Big Apple?",
+        "options": [
+            "Chicago",
+            "New York",
+            "Los Angeles",
+            "Miami"
+        ],
+        "answer": "New York"
+    },
+    {
+        "id": 12,
+        "question": "Which European country has the most islands?",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Greece",
+            "Italy"
+        ],
+        "answer": "Sweden"
+    },
+    {
+        "id": 13,
+        "question": "Which is the smallest country in the world?",
+        "options": [
+            "Liechtenstein",
+            "San Marino",
+            "Vatican City",
+            "Monaco"
+        ],
+        "answer": "Vatican City"
+    },
+    {
+        "id": 14,
+        "question": "Which African country is famous for pyramids?",
+        "options": [
+            "Sudan",
+            "Ethiopia",
+            "Morocco",
+            "Egypt"
+        ],
+        "answer": "Egypt"
+    },
+    {
+        "id": 15,
+        "question": "Which country is the largest by area?",
+        "options": [
+            "Russia",
+            "China",
+            "Canada",
+            "USA"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "id": 16,
+        "question": "Which river flows through Paris?",
+        "options": [
+            "Rhine",
+            "Seine",
+            "Danube",
+            "Thames"
+        ],
+        "answer": "Seine"
+    },
+    {
+        "id": 17,
+        "question": "Which US state is known as the Sunshine State?",
+        "options": [
+            "Florida",
+            "California",
+            "Texas",
+            "Arizona"
+        ],
+        "answer": "Florida"
+    },
+    {
+        "id": 18,
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Greenland",
+            "Borneo",
+            "Madagascar",
+            "Australia"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "id": 19,
+        "question": "Which country is famous for its fjords?",
+        "options": [
+            "Norway",
+            "Finland",
+            "Sweden",
+            "Iceland"
+        ],
+        "answer": "Norway"
+    },
+    {
+        "id": 20,
+        "question": "Which mountain is known as the 'Savage Mountain'?",
+        "options": [
+            "Lhotse",
+            "Everest",
+            "Kangchenjunga",
+            "K2"
+        ],
+        "answer": "K2"
+    },
+    {
+        "id": 21,
+        "question": "Which country has the most natural lakes?",
+        "options": [
+            "Russia",
+            "USA",
+            "Canada",
+            "Finland"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "id": 22,
+        "question": "Which desert is located in northern China and southern Mongolia?",
+        "options": [
+            "Gobi",
+            "Thar",
+            "Karakum",
+            "Taklamakan"
+        ],
+        "answer": "Gobi"
+    },
+    {
+        "id": 23,
+        "question": "Which country is known as the Land of the Midnight Sun?",
+        "options": [
+            "Sweden",
+            "Norway",
+            "Iceland",
+            "Finland"
+        ],
+        "answer": "Norway"
+    },
+    {
+        "id": 24,
+        "question": "Which river passes through Cairo?",
+        "options": [
+            "Ganges",
+            "Nile",
+            "Yangtze",
+            "Amazon"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "id": 25,
+        "question": "Which African country has the largest population?",
+        "options": [
+            "Egypt",
+            "South Africa",
+            "Nigeria",
+            "Ethiopia"
+        ],
+        "answer": "Nigeria"
+    },
+    {
+        "id": 26,
+        "question": "Which sea is the saltiest in the world?",
+        "options": [
+            "Red Sea",
+            "Black Sea",
+            "Mediterranean Sea",
+            "Dead Sea"
+        ],
+        "answer": "Dead Sea"
+    },
+    {
+        "id": 27,
+        "question": "Which country is known as the Land of a Thousand Lakes?",
+        "options": [
+            "Finland",
+            "Sweden",
+            "Norway",
+            "Canada"
+        ],
+        "answer": "Finland"
+    },
+    {
+        "id": 28,
+        "question": "Which is the highest waterfall in the world?",
+        "options": [
+            "Victoria Falls",
+            "Niagara",
+            "Angel Falls",
+            "Iguazu Falls"
+        ],
+        "answer": "Angel Falls"
+    },
+    {
+        "id": 29,
+        "question": "Which city is famous as the Venice of the North?",
+        "options": [
+            "Stockholm",
+            "Amsterdam",
+            "St. Petersburg",
+            "Bruges"
+        ],
+        "answer": "Amsterdam"
+    },
+    {
+        "id": 30,
+        "question": "Which ocean touches the east coast of Africa?",
+        "options": [
+            "Indian",
+            "Pacific",
+            "Arctic",
+            "Atlantic"
+        ],
+        "answer": "Indian"
+    },
+    {
+        "id": 31,
+        "question": "Which country has the longest coastline in the world?",
+        "options": [
+            "USA",
+            "Australia",
+            "Russia",
+            "Canada"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "id": 32,
+        "question": "Which country is famous for the Great Barrier Reef?",
+        "options": [
+            "USA",
+            "Brazil",
+            "Australia",
+            "Philippines"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "id": 33,
+        "question": "Which is the deepest ocean trench in the world?",
+        "options": [
+            "Mariana Trench",
+            "Tonga Trench",
+            "Java Trench",
+            "Puerto Rico Trench"
+        ],
+        "answer": "Mariana Trench"
+    },
+    {
+        "id": 34,
+        "question": "Which European capital city is divided by canals?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Copenhagen",
+            "Paris"
+        ],
+        "answer": "Amsterdam"
+    },
+    {
+        "id": 35,
+        "question": "Which country is the largest producer of coffee?",
+        "options": [
+            "Colombia",
+            "Brazil",
+            "Ethiopia",
+            "Vietnam"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "id": 36,
+        "question": "Which African desert is the coldest?",
+        "options": [
+            "Namib",
+            "Sahara",
+            "Kalahari",
+            "Gobi"
+        ],
+        "answer": "Namib"
+    },
+    {
+        "id": 37,
+        "question": "Which is the smallest continent by area?",
+        "options": [
+            "Antarctica",
+            "South America",
+            "Europe",
+            "Australia"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "id": 38,
+        "question": "Which city is known as the Eternal City?",
+        "options": [
+            "Athens",
+            "Rome",
+            "Jerusalem",
+            "Istanbul"
+        ],
+        "answer": "Rome"
+    },
+    {
+        "id": 39,
+        "question": "Which river is known as the Yellow River?",
+        "options": [
+            "Huang He",
+            "Mekong",
+            "Ganges",
+            "Yangtze"
+        ],
+        "answer": "Huang He"
+    },
+    {
+        "id": 40,
+        "question": "Which country is famous for its fjords and northern lights?",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Iceland",
+            "Finland"
+        ],
+        "answer": "Norway"
+    },
+    {
+        "id": 41,
+        "question": "Which US state is known for its geysers and hot springs?",
+        "options": [
+            "Montana",
+            "Wyoming",
+            "Alaska",
+            "California"
+        ],
+        "answer": "Wyoming"
+    },
+    {
+        "id": 42,
+        "question": "Which country has the world’s largest tropical rainforest?",
+        "options": [
+            "Congo",
+            "Peru",
+            "Brazil",
+            "Indonesia"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "id": 43,
+        "question": "Which mountain range separates Europe and Asia?",
+        "options": [
+            "Alps",
+            "Himalayas",
+            "Caucasus",
+            "Urals"
+        ],
+        "answer": "Urals"
+    },
+    {
+        "id": 44,
+        "question": "Which country is home to the Serengeti National Park?",
+        "options": [
+            "Kenya",
+            "Tanzania",
+            "Uganda",
+            "South Africa"
+        ],
+        "answer": "Tanzania"
+    },
+    {
+        "id": 45,
+        "question": "Which is the largest bay in the world?",
+        "options": [
+            "Bay of Biscay",
+            "Hudson Bay",
+            "Bay of Bengal",
+            "San Francisco Bay"
+        ],
+        "answer": "Bay of Bengal"
+    },
+    {
+        "id": 46,
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "options": [
+            "Iceland",
+            "Finland",
+            "Norway",
+            "Greenland"
+        ],
+        "answer": "Iceland"
+    },
+    {
+        "id": 47,
+        "question": "Which African river is the longest?",
+        "options": [
+            "Congo",
+            "Niger",
+            "Nile",
+            "Zambezi"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "id": 48,
+        "question": "Which US city is famous for its Golden Gate Bridge?",
+        "options": [
+            "San Francisco",
+            "Los Angeles",
+            "Seattle",
+            "New York"
+        ],
+        "answer": "San Francisco"
+    },
+    {
+        "id": 49,
+        "question": "Which country is famous for tulips and windmills?",
+        "options": [
+            "Netherlands",
+            "Germany",
+            "Belgium",
+            "Denmark"
+        ],
+        "answer": "Netherlands"
+    },
+    {
+        "id": 50,
+        "question": "Which country has the most volcanoes?",
+        "options": [
+            "Indonesia",
+            "USA",
+            "Japan",
+            "Italy"
+        ],
+        "answer": "Indonesia"
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "Who is the current Prime Minister of India?",
+        "options": [
+            "Narendra Modi",
+            "Rahul Gandhi",
+            "Amit Shah",
+            "Manmohan Singh"
+        ],
+        "answer": "Narendra Modi"
+    },
+    {
+        "id": 2,
+        "question": "Who was the first Prime Minister of India?",
+        "options": [
+            "Rajendra Prasad",
+            "Indira Gandhi",
+            "Jawaharlal Nehru",
+            "Lal Bahadur Shastri"
+        ],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "id": 3,
+        "question": "Who is known as the Iron Man of India?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose"
+        ],
+        "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+        "id": 4,
+        "question": "Who is the current President of India?",
+        "options": [
+            "A. P. J. Abdul Kalam",
+            "Ram Nath Kovind",
+            "Pranab Mukherjee",
+            "Droupadi Murmu"
+        ],
+        "answer": "Droupadi Murmu"
+    },
+    {
+        "id": 5,
+        "question": "Which article of the Indian Constitution deals with Fundamental Rights?",
+        "options": [
+            "Article 50-75",
+            "Article 19-45",
+            "Article 12-35",
+            "Article 100-120"
+        ],
+        "answer": "Article 12-35"
+    },
+    {
+        "id": 6,
+        "question": "Who was the first woman Prime Minister of India?",
+        "options": [
+            "Sonia Gandhi",
+            "Indira Gandhi",
+            "Pratibha Patil",
+            "Sarojini Naidu"
+        ],
+        "answer": "Indira Gandhi"
+    },
+    {
+        "id": 7,
+        "question": "What is the maximum term of the Lok Sabha?",
+        "options": [
+            "6 years",
+            "5 years",
+            "4 years",
+            "7 years"
+        ],
+        "answer": "5 years"
+    },
+    {
+        "id": 8,
+        "question": "Who appoints the Chief Justice of India?",
+        "options": [
+            "Prime Minister",
+            "Parliament",
+            "Law Minister",
+            "President"
+        ],
+        "answer": "President"
+    },
+    {
+        "id": 9,
+        "question": "Which party is the oldest political party in India?",
+        "options": [
+            "BJP",
+            "CPI",
+            "INC",
+            "TMC"
+        ],
+        "answer": "INC"
+    },
+    {
+        "id": 10,
+        "question": "Which house in India represents the states?",
+        "options": [
+            "Vidhan Sabha",
+            "Lok Sabha",
+            "Gram Sabha",
+            "Rajya Sabha"
+        ],
+        "answer": "Rajya Sabha"
+    },
+    {
+        "id": 11,
+        "question": "Who is the current Vice President of India?",
+        "options": [
+            "Venkaiah Naidu",
+            "Jagdeep Dhankhar",
+            "Hamid Ansari",
+            "Gopalkrishna Gandhi"
+        ],
+        "answer": "Jagdeep Dhankhar"
+    },
+    {
+        "id": 12,
+        "question": "Which amendment gave the right to education as a fundamental right?",
+        "options": [
+            "44th Amendment",
+            "86th Amendment",
+            "42nd Amendment",
+            "73rd Amendment"
+        ],
+        "answer": "86th Amendment"
+    },
+    {
+        "id": 13,
+        "question": "Which Indian state has the largest number of Lok Sabha seats?",
+        "options": [
+            "Maharashtra",
+            "Uttar Pradesh",
+            "Bihar",
+            "Tamil Nadu"
+        ],
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "id": 14,
+        "question": "Which part of the Constitution deals with the Directive Principles of State Policy?",
+        "options": [
+            "Part IV",
+            "Part V",
+            "Part III",
+            "Part VI"
+        ],
+        "answer": "Part IV"
+    },
+    {
+        "id": 15,
+        "question": "Who was the first Deputy Prime Minister of India?",
+        "options": [
+            "Vallabhbhai Patel",
+            "Sardar Patel",
+            "Morarji Desai",
+            "Lal Bahadur Shastri"
+        ],
+        "answer": "Sardar Patel"
+    },
+    {
+        "id": 16,
+        "question": "Which political party is currently ruling in India?",
+        "options": [
+            "CPI",
+            "BJP",
+            "INC",
+            "TMC"
+        ],
+        "answer": "BJP"
+    },
+    {
+        "id": 17,
+        "question": "What is the age requirement to become the President of India?",
+        "options": [
+            "40 years",
+            "35 years",
+            "30 years",
+            "45 years"
+        ],
+        "answer": "35 years"
+    },
+    {
+        "id": 18,
+        "question": "Which article of the Constitution deals with emergency provisions?",
+        "options": [
+            "Article 370-380",
+            "Article 352-360",
+            "Article 356-360",
+            "Article 300-310"
+        ],
+        "answer": "Article 352-360"
+    },
+    {
+        "id": 19,
+        "question": "Who was the first woman President of India?",
+        "options": [
+            "Indira Gandhi",
+            "Pratibha Patil",
+            "Droupadi Murmu",
+            "Sarojini Naidu"
+        ],
+        "answer": "Pratibha Patil"
+    },
+    {
+        "id": 20,
+        "question": "Which house of the Indian Parliament is called the House of the People?",
+        "options": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Vidhan Sabha",
+            "Gram Sabha"
+        ],
+        "answer": "Lok Sabha"
+    },
+    {
+        "id": 21,
+        "question": "Who is called the Father of the Indian Constitution?",
+        "options": [
+            "Jawaharlal Nehru",
+            "B. R. Ambedkar",
+            "Mahatma Gandhi",
+            "Sardar Patel"
+        ],
+        "answer": "B. R. Ambedkar"
+    },
+    {
+        "id": 22,
+        "question": "Which Indian state has a unicameral legislature?",
+        "options": [
+            "Uttar Pradesh",
+            "Kerala",
+            "Maharashtra",
+            "Bihar"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "id": 23,
+        "question": "Who was the first Governor-General of independent India?",
+        "options": [
+            "Rajendra Prasad",
+            "Lord Mountbatten",
+            "C. Rajagopalachari",
+            "Vallabhbhai Patel"
+        ],
+        "answer": "Lord Mountbatten"
+    },
+    {
+        "id": 24,
+        "question": "What is the minimum age to become a Member of Lok Sabha?",
+        "options": [
+            "30 years",
+            "25 years",
+            "35 years",
+            "21 years"
+        ],
+        "answer": "25 years"
+    },
+    {
+        "id": 25,
+        "question": "Who is the current Chief Election Commissioner of India?",
+        "options": [
+            "C. K. Mishra",
+            "Sushil Chandra",
+            "Rajiv Kumar",
+            "Sunil Arora"
+        ],
+        "answer": "Rajiv Kumar"
+    },
+    {
+        "id": 26,
+        "question": "Which article of the Indian Constitution provides for the amendment procedure?",
+        "options": [
+            "Article 370",
+            "Article 368",
+            "Article 352",
+            "Article 360"
+        ],
+        "answer": "Article 368"
+    },
+    {
+        "id": 27,
+        "question": "Who is the head of a Panchayat in India?",
+        "options": [
+            "Mukhiya",
+            "Sarpanch",
+            "Mayor",
+            "Governor"
+        ],
+        "answer": "Sarpanch"
+    },
+    {
+        "id": 28,
+        "question": "Who was the first Prime Minister of independent India to visit the USA?",
+        "options": [
+            "Indira Gandhi",
+            "Jawaharlal Nehru",
+            "Rajiv Gandhi",
+            "V. P. Singh"
+        ],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "id": 29,
+        "question": "Which political party was founded by Mahatma Gandhi?",
+        "options": [
+            "BJP",
+            "INC",
+            "CPI",
+            "Janata Party"
+        ],
+        "answer": "INC"
+    },
+    {
+        "id": 30,
+        "question": "Which is the highest judicial court in India?",
+        "options": [
+            "Tribunal",
+            "Supreme Court",
+            "High Court",
+            "District Court"
+        ],
+        "answer": "Supreme Court"
+    },
+    {
+        "id": 31,
+        "question": "Who has the power to dissolve the Lok Sabha?",
+        "options": [
+            "Prime Minister",
+            "President",
+            "Parliament Speaker",
+            "Election Commission"
+        ],
+        "answer": "President"
+    },
+    {
+        "id": 32,
+        "question": "Who appoints the Governors of Indian states?",
+        "options": [
+            "Chief Justice of India",
+            "President",
+            "Prime Minister",
+            "Parliament"
+        ],
+        "answer": "President"
+    },
+    {
+        "id": 33,
+        "question": "Which party was founded by B. R. Ambedkar?",
+        "options": [
+            "INC",
+            "BSP",
+            "CPI",
+            "BJP"
+        ],
+        "answer": "BSP"
+    },
+    {
+        "id": 34,
+        "question": "Who is the current Home Minister of India?",
+        "options": [
+            "Rajnath Singh",
+            "Amit Shah",
+            "Nitin Gadkari",
+            "Piyush Goyal"
+        ],
+        "answer": "Amit Shah"
+    },
+    {
+        "id": 35,
+        "question": "Which schedule of the Constitution deals with the allocation of powers between Union and States?",
+        "options": [
+            "6th Schedule",
+            "7th Schedule",
+            "5th Schedule",
+            "8th Schedule"
+        ],
+        "answer": "7th Schedule"
+    },
+    {
+        "id": 36,
+        "question": "Which Article allows President to declare National Emergency?",
+        "options": [
+            "Article 370",
+            "Article 352",
+            "Article 356",
+            "Article 368"
+        ],
+        "answer": "Article 352"
+    },
+    {
+        "id": 37,
+        "question": "Who was the first woman Speaker of Lok Sabha?",
+        "options": [
+            "Sumitra Mahajan",
+            "Meira Kumar",
+            "Sushma Swaraj",
+            "Pratibha Patil"
+        ],
+        "answer": "Meira Kumar"
+    },
+    {
+        "id": 38,
+        "question": "Who is the head of the state in India?",
+        "options": [
+            "Prime Minister",
+            "Chief Minister",
+            "Governor",
+            "President"
+        ],
+        "answer": "President"
+    },
+    {
+        "id": 39,
+        "question": "Which party did Atal Bihari Vajpayee belong to?",
+        "options": [
+            "CPI",
+            "BJP",
+            "INC",
+            "Janata Party"
+        ],
+        "answer": "BJP"
+    },
+    {
+        "id": 40,
+        "question": "Which amendment lowered the voting age in India to 18?",
+        "options": [
+            "73rd Amendment",
+            "61st Amendment",
+            "42nd Amendment",
+            "44th Amendment"
+        ],
+        "answer": "61st Amendment"
+    },
+    {
+        "id": 41,
+        "question": "Who was the first female Governor of an Indian state?",
+        "options": [
+            "Sarojini Naidu",
+            "Padmaja Naidu",
+            "Pratibha Patil",
+            "Droupadi Murmu"
+        ],
+        "answer": "Padmaja Naidu"
+    },
+    {
+        "id": 42,
+        "question": "Which body conducts elections in India?",
+        "options": [
+            "Supreme Court",
+            "Parliament",
+            "Union Cabinet",
+            "Election Commission"
+        ],
+        "answer": "Election Commission"
+    },
+    {
+        "id": 43,
+        "question": "Who is called the Father of Indian Parliament?",
+        "options": [
+            "Rajendra Prasad",
+            "B. R. Ambedkar",
+            "Jawaharlal Nehru",
+            "Sardar Patel"
+        ],
+        "answer": "B. R. Ambedkar"
+    },
+    {
+        "id": 44,
+        "question": "Which party has the symbol of a lotus?",
+        "options": [
+            "INC",
+            "BJP",
+            "CPI",
+            "NCP"
+        ],
+        "answer": "BJP"
+    },
+    {
+        "id": 45,
+        "question": "Which political party was founded in 1885?",
+        "options": [
+            "BJP",
+            "INC",
+            "CPI",
+            "Janata Party"
+        ],
+        "answer": "INC"
+    },
+    {
+        "id": 46,
+        "question": "Who was the first Deputy Prime Minister of India?",
+        "options": [
+            "V. P. Singh",
+            "Sardar Patel",
+            "Morarji Desai",
+            "Lal Bahadur Shastri"
+        ],
+        "answer": "Sardar Patel"
+    },
+    {
+        "id": 47,
+        "question": "Which Article of the Constitution provides for removal of the President?",
+        "options": [
+            "Article 62",
+            "Article 61",
+            "Article 63",
+            "Article 64"
+        ],
+        "answer": "Article 61"
+    },
+    {
+        "id": 48,
+        "question": "Who is the current Finance Minister of India?",
+        "options": [
+            "Arun Jaitley",
+            "Nirmala Sitharaman",
+            "Piyush Goyal",
+            "Rajnath Singh"
+        ],
+        "answer": "Nirmala Sitharaman"
+    },
+    {
+        "id": 49,
+        "question": "Which Article provides for the impeachment of judges in India?",
+        "options": [
+            "Article 217",
+            "Article 124",
+            "Article 121",
+            "Article 122"
+        ],
+        "answer": "Article 124"
+    },
+    {
+        "id": 50,
+        "question": "Which schedule deals with the administration and control of Scheduled Areas and Tribes?",
+        "options": [
+            "6th Schedule",
+            "5th Schedule",
+            "7th Schedule",
+            "8th Schedule"
+        ],
+        "answer": "5th Schedule"
+    }
+]
