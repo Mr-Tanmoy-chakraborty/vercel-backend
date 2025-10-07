@@ -35,5 +35,4 @@ app.get("/api/india", (req, res) => res.json(indiaQuestions));
 app.get("/api/mithology", (req, res) => res.json(mithologyQuestions));
 app.get("/api/politics", (req, res) => res.json(politicsQuestions));
 app.get("/api/science", (req, res) => res.json(scienceQuestions));
-
 module.exports = app;
