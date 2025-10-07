@@ -27,7 +27,7 @@ app.get("/", (req, res) => {
 app.get("/api/football", (req, res) => res.json(footballQuestions));
 app.get("/api/cricket", (req, res) => res.json(cricketQuestions));
 app.get("/api/olympics", (req, res) => res.json(olympicQuestions));
-app.get("/api/Mix", (req, res) => res.json(MixQuestions));
+app.get("/api/mix", (req, res) => res.json(MixQuestions));
 app.get("/api/geography", (req, res) => res.json(geographyQuestions));
 app.get("/api/gk", (req, res) => res.json(gkQuestions));
 app.get("/api/history", (req, res) => res.json(historyQuestions));
@@ -36,7 +36,7 @@ app.get("/api/mithology", (req, res) => res.json(mithologyQuestions));
 app.get("/api/politics", (req, res) => res.json(politicsQuestions));
 app.get("/api/science", (req, res) => res.json(scienceQuestions));
 
-// ✅ Export app for Vercel
-const port=5001;
-app.listen(port,console.log(`server is running on ${port}✅`));
-// module.exports = app;
+// ✅ Export app for Vercela
+// const port=5001;
+// app.listen(port,console.log(`server is running on ${port}✅`));
+module.exports = app;
