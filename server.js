@@ -20,7 +20,7 @@ const geographyQuestions = require(path.join(__dirname, "geography.json"));
 
 // Home route
 app.get("/", (req, res) => {
-  res.send("Welcome to MyQuiz Backend!");
+  res.send("✅ Welcome to MyQuiz Backend!");
 });
 
 // APIs
@@ -36,9 +36,5 @@ app.get("/api/mithology", (req, res) => res.json(mithologyQuestions));
 app.get("/api/politics", (req, res) => res.json(politicsQuestions));
 app.get("/api/science", (req, res) => res.json(scienceQuestions));
 
-// ❌ REMOVE this (not for Vercel)
-// const port = process.env.PORT || 5002;
-// app.listen(port, () => console.log(`✅ Backend running on port ${port}`));
-
-// ✅ ADD this (for Vercel)
+// ✅ Export app for Vercel
 module.exports = app;
