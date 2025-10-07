@@ -9,7 +9,7 @@ app.use(cors());
 const footballQuestions = require(path.join(__dirname, "football.json"));
 const cricketQuestions = require(path.join(__dirname, "cricket.json"));
 const olympicQuestions = require(path.join(__dirname, "olympics.json"));
-const MixQuestions = require(path.join(__dirname, "Mixture.json"));
+const MixQuestions = require(path.join(__dirname, "mixture.json"));
 const gkQuestions = require(path.join(__dirname, "gk.json"));
 const historyQuestions = require(path.join(__dirname, "history.json"));
 const indiaQuestions = require(path.join(__dirname, "india.json"));
@@ -20,7 +20,7 @@ const geographyQuestions = require(path.join(__dirname, "geography.json"));
 
 // Home route
 app.get("/", (req, res) => {
-  res.send("✅ Welcome to MyQuiz Backend!");
+  res.send("✅ Welcome to Tanmoy's MyQuiz Backend!");
 });
 
 // APIs
@@ -37,4 +37,6 @@ app.get("/api/politics", (req, res) => res.json(politicsQuestions));
 app.get("/api/science", (req, res) => res.json(scienceQuestions));
 
 // ✅ Export app for Vercel
-module.exports = app;
+const port=5001;
+app.listen(port,console.log(`server is running on ${port}✅`));
+// module.exports = app;
